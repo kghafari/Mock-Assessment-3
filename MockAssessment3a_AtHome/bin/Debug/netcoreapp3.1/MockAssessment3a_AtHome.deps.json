@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MockAssessment3a_AtHome/1.0.0": {
+        "runtime": {
+          "MockAssessment3a_AtHome.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MockAssessment3a_AtHome/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\kyleg\source\repos\MockAssessment3a\MockAssessment3a\bin\Debug\netcoreapp3.1\MockAssessment3a.exe
+C:\Users\kyleg\source\repos\MockAssessment3a\MockAssessment3a\bin\Debug\netcoreapp3.1\MockAssessment3a.deps.json
+C:\Users\kyleg\source\repos\MockAssessment3a\MockAssessment3a\bin\Debug\netcoreapp3.1\MockAssessment3a.runtimeconfig.json
+C:\Users\kyleg\source\repos\MockAssessment3a\MockAssessment3a\bin\Debug\netcoreapp3.1\MockAssessment3a.runtimeconfig.dev.json
+C:\Users\kyleg\source\repos\MockAssessment3a\MockAssessment3a\bin\Debug\netcoreapp3.1\MockAssessment3a.dll
+C:\Users\kyleg\source\repos\MockAssessment3a\MockAssessment3a\bin\Debug\netcoreapp3.1\MockAssessment3a.pdb
+C:\Users\kyleg\source\repos\MockAssessment3a\MockAssessment3a\obj\Debug\netcoreapp3.1\MockAssessment3a.csprojAssemblyReference.cache
+C:\Users\kyleg\source\repos\MockAssessment3a\MockAssessment3a\obj\Debug\netcoreapp3.1\MockAssessment3a.AssemblyInfoInputs.cache
+C:\Users\kyleg\source\repos\MockAssessment3a\MockAssessment3a\obj\Debug\netcoreapp3.1\MockAssessment3a.AssemblyInfo.cs
+C:\Users\kyleg\source\repos\MockAssessment3a\MockAssessment3a\obj\Debug\netcoreapp3.1\MockAssessment3a.dll
+C:\Users\kyleg\source\repos\MockAssessment3a\MockAssessment3a\obj\Debug\netcoreapp3.1\MockAssessment3a.pdb
